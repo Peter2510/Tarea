@@ -1,0 +1,12 @@
+Proceso Ejercicio4
+    
+    Escribir "Ingrese un numero: " 
+
+    Leer numero
+   
+    cuadrado = numero * numero
+    
+    cubo = numero * numero * numero 
+
+    
+FinAlgoritmo
