@@ -1,4 +1,4 @@
-Proceso 
+Proceso Ejercicio2
     
     Escribir "Ingrese la capital del pais: " 
 
@@ -9,5 +9,5 @@ Proceso
     Leer pais
 
 
-    
+    Escribir  capital " es la capital de " + pais
 FinAlgoritmo
